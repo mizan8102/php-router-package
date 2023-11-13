@@ -1,0 +1,19 @@
+{
+    "name": "mizan/router-built",
+    "description": "This php router generate",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mizan\\RouterBuilt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mizanur Rahman",
+            "email": "mizan.prog@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
